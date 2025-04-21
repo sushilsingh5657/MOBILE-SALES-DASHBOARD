@@ -29,6 +29,8 @@ Power Query Editor – For data cleaning, transformation, and loading
 OpenStreetMap (Power BI Map Visual) – For geospatial sales representation
 
 Slicers & Filters – For dynamic interaction and drill-downs
+<img width="620" alt="DASHBOARD1" src="https://github.com/user-attachments/assets/f6bff1e5-2a92-4754-a51b-d943f49c03a9" />
+
 # Dashboard Highlights
   Key Metrics:
 
