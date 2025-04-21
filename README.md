@@ -18,17 +18,18 @@ This project features an interactive Power BI dashboard that provides a comprehe
 
 The visualizations offer actionable insights for business performance tracking and decision-making in the mobile sales domain.
 # Tools Used
-Power BI Desktop – For building visual reports and dashboards
+•	Power BI Desktop – For building visual reports and dashboards
 
-Microsoft Excel – For initial data preparation and formatting
+•	Microsoft Excel – For initial data preparation and formatting
 
-DAX (Data Analysis Expressions) – To create calculated columns and custom measures
+•	DAX (Data Analysis Expressions) – To create calculated columns and custom measures
 
-Power Query Editor – For data cleaning, transformation, and loading
+•	Power Query Editor – For data cleaning, transformation, and loading
 
-OpenStreetMap (Power BI Map Visual) – For geospatial sales representation
+•	OpenStreetMap (Power BI Map Visual) – For geospatial sales representation
 
-Slicers & Filters – For dynamic interaction and drill-downs
+•	Slicers & Filters – For dynamic interaction and drill-downs
+
 
 <img width="620" alt="DASHBOARD1" src="https://github.com/user-attachments/assets/f6bff1e5-2a92-4754-a51b-d943f49c03a9" />
 <img width="618" alt="DASHBOARD2" src="https://github.com/user-attachments/assets/7626399e-a1e2-401c-b72f-958325bfad47" />
