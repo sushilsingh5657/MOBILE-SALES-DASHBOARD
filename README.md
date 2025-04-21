@@ -21,16 +21,26 @@ Power BI: For building interactive visuals and reports
 
 DAX: For custom calculations and measures
 # Dashboard Highlights
-Key Metrics: Total Sales (769M), Quantity Sold (19K), Transactions (4K), Avg. Price (40.11K)
+Key Metrics:
 
-Sales Analysis:
+Total Sales: 769M
+
+Quantity Sold: 19K
+
+Transactions: 4K
+
+Average Price: 40.11K
+
+Sales Breakdown:
 
 By City, Brand, and Mobile Model
 
-By Month, Day Name, and Year-over-Year
+Over Month, Day of Week, and Year
 
-Customer Ratings Breakdown
+Customer Ratings by Status (Good, Average, Poor)
 
-Transaction Distribution by Payment Method (UPI, Debit, Credit)
+Transaction Modes: UPI, Debit Card, and Credit Card
 
-MTD (Month-to-Date) Trends by Year, Quarter, Month, and Day
+MTD (Month-to-Date) analysis by Year, Quarter, Month, and Day
+
+Year-over-Year Comparisons for better performance tracking
