@@ -30,29 +30,25 @@ OpenStreetMap (Power BI Map Visual) – For geospatial sales representation
 
 Slicers & Filters – For dynamic interaction and drill-downs
 # Dashboard Highlights
-Key Metrics:
+  Key Metrics:
+•	Total Sales: 769M
 
-Total Sales: 769M
+•	Quantity Sold: 19K
 
-Quantity Sold: 19K
+•	Transactions: 4K
 
-Transactions: 4K
+•	Average Price: 40.11K
 
-Average Price: 40.11K
+  Sales Breakdown:
+•	By City, Brand, and Mobile Model
 
-Sales Breakdown:
+•	Over Month, Day of Week, and Year
 
-By City, Brand, and Mobile Model
+  Customer Ratings by Status (Good, Average, Poor)
+  Transaction Modes: UPI, Debit Card, and Credit Card
+  MTD (Month-to-Date) analysis by Year, Quarter, Month, and Day
+  Year-over-Year Comparisons for better performance tracking
 
-Over Month, Day of Week, and Year
-
-Customer Ratings by Status (Good, Average, Poor)
-
-Transaction Modes: UPI, Debit Card, and Credit Card
-
-MTD (Month-to-Date) analysis by Year, Quarter, Month, and Day
-
-Year-over-Year Comparisons for better performance tracking
 # Process Steps
 # 1 Data Collection
 •	Data collected includes mobile brand, model, quantity sold, total sales, transaction count, payment method, ratings, date, and city.
