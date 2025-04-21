@@ -16,7 +16,7 @@ MTD (Month-to-Date) Performance by Year, Quarter, Month, and Day
 Year-over-Year Sales Comparison
 
 The visualizations offer actionable insights for business performance tracking and decision-making in the mobile sales domain.
-# Tools Used
+# 🔧Tools Used
 Power BI: For building interactive visuals and reports
 
 DAX: For custom calculations and measures
