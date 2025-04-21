@@ -53,7 +53,7 @@ MTD (Month-to-Date) analysis by Year, Quarter, Month, and Day
 
 Year-over-Year Comparisons for better performance tracking
 # Process Steps
-1. Data Collection
+1. ##Data Collection
 Data collected includes mobile brand, model, quantity sold, total sales, transaction count, payment method, ratings, date, and city.
 
 2. Data Cleaning (in Power Query)
