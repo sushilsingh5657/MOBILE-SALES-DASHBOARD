@@ -75,19 +75,20 @@ Year-over-Year Comparisons for better performance tracking
 •	Used bar charts, line charts, pie charts, map visuals, and slicers for interactivity
 •	Applied clean, user-friendly layout and consistent color theme
 # Key Features
-Total Sales by City – Visualized on the map using OpenStreetMap
+•	Total Sales by City – Visualized on the map using OpenStreetMap
 
-Monthly & Daily Trends – Analyze sales performance throughout the year
+•	Monthly & Daily Trends – Analyze sales performance throughout the year
 
-Brand & Model Performance – Compare sales across top-selling phones
+•	Brand & Model Performance – Compare sales across top-selling phones
 
-Transaction Breakdown – Distribution by payment methods (UPI, Credit/Debit Cards)
+•	Transaction Breakdown – Distribution by payment methods (UPI, Credit/Debit Cards)
 
-Customer Ratings – Segregated into Good, Average, and Poor
+•	Customer Ratings – Segregated into Good, Average, and Poor
 
-YOY Comparison – Highlights performance compared to the same period last year
+•	YOY Comparison – Highlights performance compared to the same period last year
 
-Dynamic Slicers – Filter by Month, Brand, Payment Method, Model
+•	Dynamic Slicers – Filter by Month, Brand, Payment Method, Model
+
 
 
 
