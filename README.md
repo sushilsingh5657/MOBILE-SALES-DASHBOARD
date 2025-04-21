@@ -31,6 +31,7 @@ OpenStreetMap (Power BI Map Visual) – For geospatial sales representation
 Slicers & Filters – For dynamic interaction and drill-downs
 # Dashboard Highlights
   Key Metrics:
+
 •	Total Sales: 769M
 
 •	Quantity Sold: 19K
@@ -40,14 +41,19 @@ Slicers & Filters – For dynamic interaction and drill-downs
 •	Average Price: 40.11K
 
   Sales Breakdown:
+
 •	By City, Brand, and Mobile Model
 
 •	Over Month, Day of Week, and Year
 
   Customer Ratings by Status (Good, Average, Poor)
+
   Transaction Modes: UPI, Debit Card, and Credit Card
+
   MTD (Month-to-Date) analysis by Year, Quarter, Month, and Day
+
   Year-over-Year Comparisons for better performance tracking
+
 
 # Process Steps
 # 1 Data Collection
