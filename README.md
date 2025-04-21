@@ -53,39 +53,26 @@ MTD (Month-to-Date) analysis by Year, Quarter, Month, and Day
 
 Year-over-Year Comparisons for better performance tracking
 # Process Steps
-1. ##Data Collection
-Data collected includes mobile brand, model, quantity sold, total sales, transaction count, payment method, ratings, date, and city.
+1.# Data Collection
+•	Data collected includes mobile brand, model, quantity sold, total sales, transaction count, payment method, ratings, date, and city.
+2.# Data Cleaning (in Power Query)
+•	Removed nulls, handled data types, filtered incomplete entries
+•	Merged and transformed tables where needed
+•	Renamed columns for clarity
+3.# Data Modeling
+•	Defined relationships between tables (e.g., Date, Sales, Product, Region)
+•	Set up a proper star schema for efficient querying
+4.# DAX Calculations
+•	Created calculated columns and measures such as:
+o	Total_Sales, Total_Quantity, Average_Price, Transaction_Count
+o	Month-to-Date (MTD) and Year-over-Year comparisons
+5.# Report Building
+•	Designed multiple interactive report pages:
+o	Main Dashboard: KPIs, total sales by city/month, sales by brand/model, day-wise analysis
+o	MTD Dashboard: Trends by year, quarter, month, and day
+o	Year-over-Year Comparison: Sales vs. same period last year by year, quarter, and month
+6.# Visualization
+•	Used bar charts, line charts, pie charts, map visuals, and slicers for interactivity
+•	Applied clean, user-friendly layout and consistent color theme
 
-2. Data Cleaning (in Power Query)
-Removed nulls, handled data types, filtered incomplete entries
-
-Merged and transformed tables where needed
-
-Renamed columns for clarity
-
-3. Data Modeling
-Defined relationships between tables (e.g., Date, Sales, Product, Region)
-
-Set up a proper star schema for efficient querying
-
-4. DAX Calculations
-Created calculated columns and measures such as:
-
-Total_Sales, Total_Quantity, Average_Price, Transaction_Count
-
-Month-to-Date (MTD) and Year-over-Year comparisons
-
-5. Report Building
-Designed multiple interactive report pages:
-
-Main Dashboard: KPIs, total sales by city/month, sales by brand/model, day-wise analysis
-
-MTD Dashboard: Trends by year, quarter, month, and day
-
-Year-over-Year Comparison: Sales vs. same period last year by year, quarter, and month
-
-6. Visualization
-Used bar charts, line charts, pie charts, map visuals, and slicers for interactivity
-
-Applied clean, user-friendly layout and consistent color theme
 
