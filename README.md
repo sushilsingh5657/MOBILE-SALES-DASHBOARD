@@ -55,7 +55,7 @@ Slicers & Filters – For dynamic interaction and drill-downs
   Year-over-Year Comparisons for better performance tracking
 
 
-# Process Steps
+# Steps Involved
 # 1 Data Collection
 •	Data collected includes mobile brand, model, quantity sold, total sales, transaction count, payment method, ratings, date, and city.
 # 2 Data Cleaning (in Power Query)
