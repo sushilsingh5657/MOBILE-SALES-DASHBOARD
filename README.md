@@ -91,7 +91,8 @@ Slicers & Filters – For dynamic interaction and drill-downs
 •	YOY Comparison – Highlights performance compared to the same period last year
 
 •	Dynamic Slicers – Filter by Month, Brand, Payment Method, Model
-
+# Summary
+This dashboard helps businesses and analysts gain valuable insights into mobile sales trends and customer behavior. With year-over-year and MTD comparisons, it is a powerful tool for identifying growth opportunities, optimizing marketing strategies, and enhancing decision-making processes.
 
 
 
