@@ -1,4 +1,4 @@
- # 📊 Mobile Sales Dashboard 
+ # PowerBI Project: Mobile Sales Dashboard 
 This project features an interactive Power BI dashboard that provides a comprehensive analysis of mobile sales data. The dashboard includes multiple pages with key metrics and visuals such as:
 
 •	Total Sales, Quantity, and Transactions
